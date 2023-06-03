@@ -1,6 +1,6 @@
 ### Olá! Me chamo Heder David 👋
 
-- 📚 Cursando Sistemas de Informação no IFBA de Vitória da Conquista
+- 📚 Cursando Sistemas de Informação no IFBA de Vitória da Conquista;
 - 🌱 Estudando HTML5, CSS3 e JavaScript. 
 
 <div style="display: inline_block"><br>
