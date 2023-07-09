@@ -11,6 +11,3 @@
   <img align="center" alt="Heder-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
   <img align="center" alt="Heder-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 </div>
-
-
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
