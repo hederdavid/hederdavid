@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 Studying Information Systems at IFBA in Vitória da Conquista;<br>🌱 Learning Vue.js
+📚 Studying Information Systems at IFBA in Vitória da Conquista;<br>🌱 Learning Vue.js, PHP and Laravel;
 
 
 ## 🌐 Socials:
