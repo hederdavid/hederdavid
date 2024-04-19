@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 Cursando Sistemas de Informação no IFBA;<br>🧭 Aprendendo React.js e TypeScript;
+📚 Cursando Sistemas de Informação no IFBA;<br>🧭 Aprendendo Spring Boot 🍃;
 
 
 ## 🌐 Socials:
