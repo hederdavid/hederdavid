@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 Cursando Sistemas de Informação no IFBA;<br>🧭 Aprendendo Spring 🍃;
+📚 Cursando Sistemas de Informação no IFBA;<br>🧭 Aprendendo Spring 🍃 e Angular;
 
 
 ## 🌐 Socials:
