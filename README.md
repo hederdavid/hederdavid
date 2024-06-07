@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 📚 Cursando Sistemas de Informação no IFBA
-- 🧭 Aprendendo Spring 🍃 e Angular
+- 🧭 Aprendendo Spring 🍃 e Angular 🅰️
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/heder_david/) 
