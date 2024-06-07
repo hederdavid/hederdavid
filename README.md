@@ -3,8 +3,8 @@
 - 🧭 Aprendendo Spring 🍃 e Angular
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/heder_david/){:target="_blank"} 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hederdavid/){:target="_blank"}
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/heder_david/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hederdavid/)
 
 # 💻 Tech Stack:
 <p align="left" style="padding: 10px;">
@@ -24,5 +24,11 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hederdavid&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=hederdavid&theme=radical&hide_border=false)
+
+### 🚀 GitHub Profile Overview:
+[![](https://github-readme-stats.vercel.app/api?username=hederdavid&theme=radical&show_icons=true&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/hederdavid)
+
+### 🔥 GitHub Streak:
+[![](https://github-readme-streak-stats.herokuapp.com/?user=hederdavid&theme=radical&hide_border=false)](https://github.com/hederdavid)
+
+
