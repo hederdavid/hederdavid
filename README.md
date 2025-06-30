@@ -10,7 +10,6 @@ Estudante de **Sistemas de Informação** no IFBA e desenvolvedor **Full-Stack**
 - 💻 Desenvolvedor Full-Stack com experiência em Front-end e Back-end  
 - 🌱 Atualmente aprofundando conhecimentos em Spring Boot, NestJS e Angular  
 - 📚 Apaixonado por tecnologia, programação e desenvolvimento contínuo  
-- 🌐 Sempre buscando colaborar em projetos open source e aprender com a comunidade
 
 ---
 
@@ -50,23 +49,3 @@ Estudante de **Sistemas de Informação** no IFBA e desenvolvedor **Full-Stack**
 [![Streak GitHub](https://github-readme-streak-stats.herokuapp.com/?user=hederdavid&theme=radical)](https://github.com/hederdavid)
 
 ---
-
-## 🌟 Projetos em Destaque
-
-<!-- Aqui você pode incluir alguns dos seus projetos mais relevantes -->
-
-| Projeto            | Descrição                                      | Tecnologias            | Link                          |
-|--------------------|------------------------------------------------|------------------------|-------------------------------|
-| Sistema de Tarefas  | Aplicação web para gerenciamento de tarefas    | Angular, Spring Boot   | [GitHub](https://github.com/hederdavid/sistema-tarefas) |
-| API Rest com NestJS | API RESTful usando NestJS e PostgreSQL          | NestJS, PostgreSQL     | [GitHub](https://github.com/hederdavid/api-nestjs)      |
-| Portfólio Pessoal  | Website pessoal para apresentar meus projetos  | Angular, TailwindCSS   | [Site](https://hederdavid.com)                            |
-
----
-
-## 💡 Curiosidade
-
-> “O melhor jeito de aprender é fazendo — e fazendo certo.”
-
----
-
-Se quiser, posso ajudar a criar uma versão em inglês também, para ampliar seu alcance. Quer que eu faça?
