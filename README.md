@@ -1,19 +1,22 @@
-# 💫 Sobre Mim
+# 👋 Olá, eu sou Heder David!
 
-Sou estudante de **Sistemas de Informação** no IFBA e desenvolvedor **Full-Stack** apaixonado por tecnologia e inovação. Tenho experiência com diversas tecnologias e busco sempre aprender mais e aprimorar minhas habilidades.
-
----
-
-## 🌐 Redes Sociais
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/heder_david/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hederdavid/)
+Estudante de **Sistemas de Informação** no IFBA e desenvolvedor **Full-Stack** focado em entregar soluções eficientes, modernas e escaláveis. Apaixonado por aprender novas tecnologias e aplicar boas práticas no desenvolvimento de software.
 
 ---
 
-## 💻 Tecnologias
+## 🚀 Sobre Mim
 
-<p align="left" style="padding: 15px;">
+- 🎓 Estudante de Sistemas de Informação no IFBA  
+- 💻 Desenvolvedor Full-Stack com experiência em Front-end e Back-end  
+- 🌱 Atualmente aprofundando conhecimentos em Spring Boot, NestJS e Angular  
+- 📚 Apaixonado por tecnologia, programação e desenvolvimento contínuo  
+- 🌐 Sempre buscando colaborar em projetos open source e aprender com a comunidade
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
@@ -31,10 +34,39 @@ Sou estudante de **Sistemas de Informação** no IFBA e desenvolvedor **Full-Sta
 
 ---
 
-## 📊 Estatísticas no GitHub
+## 📫 Como Me Encontrar
 
-### 🚀 Visão Geral do Perfil  
-[![Perfil GitHub](https://github-readme-stats.vercel.app/api?username=hederdavid&theme=radical&show_icons=true&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/hederdavid)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/heder_david/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hederdavid/)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+### 📈 Visão Geral  
+[![Perfil GitHub](https://github-readme-stats.vercel.app/api?username=hederdavid&theme=radical&show_icons=true&count_private=true)](https://github.com/hederdavid)
 
 ### 🔥 Sequência de Contribuições  
-[![Streak GitHub](https://github-readme-streak-stats.herokuapp.com/?user=hederdavid&theme=radical&hide_border=false)](https://github.com/hederdavid)
+[![Streak GitHub](https://github-readme-streak-stats.herokuapp.com/?user=hederdavid&theme=radical)](https://github.com/hederdavid)
+
+---
+
+## 🌟 Projetos em Destaque
+
+<!-- Aqui você pode incluir alguns dos seus projetos mais relevantes -->
+
+| Projeto            | Descrição                                      | Tecnologias            | Link                          |
+|--------------------|------------------------------------------------|------------------------|-------------------------------|
+| Sistema de Tarefas  | Aplicação web para gerenciamento de tarefas    | Angular, Spring Boot   | [GitHub](https://github.com/hederdavid/sistema-tarefas) |
+| API Rest com NestJS | API RESTful usando NestJS e PostgreSQL          | NestJS, PostgreSQL     | [GitHub](https://github.com/hederdavid/api-nestjs)      |
+| Portfólio Pessoal  | Website pessoal para apresentar meus projetos  | Angular, TailwindCSS   | [Site](https://hederdavid.com)                            |
+
+---
+
+## 💡 Curiosidade
+
+> “O melhor jeito de aprender é fazendo — e fazendo certo.”
+
+---
+
+Se quiser, posso ajudar a criar uma versão em inglês também, para ampliar seu alcance. Quer que eu faça?
