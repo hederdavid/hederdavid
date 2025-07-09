@@ -1,14 +1,13 @@
 # 👋 Olá, eu sou Heder David!
 
-Estudante de **Sistemas de Informação** no IFBA e desenvolvedor **Full-Stack** focado em entregar soluções eficientes, modernas e escaláveis. Apaixonado por aprender novas tecnologias e aplicar boas práticas no desenvolvimento de software.
+Desenvolvedor **Full-Stack** focado em entregar soluções eficientes, modernas e escaláveis. Apaixonado por aprender novas tecnologias e aplicar boas práticas no desenvolvimento de software.
 
 ---
 
 ## 🚀 Sobre Mim
 
 - 🎓 Estudante de Sistemas de Informação no IFBA  
-- 💻 Desenvolvedor Full-Stack com experiência em Front-end e Back-end  
-- 🌱 Atualmente aprofundando conhecimentos em Spring Boot, NestJS e Angular  
+- 💻 Desenvolvedor Full-Stack com experiência em Front-end e Back-end   
 - 📚 Apaixonado por tecnologia, programação e desenvolvimento contínuo  
 
 ---
