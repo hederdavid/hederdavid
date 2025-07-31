@@ -41,10 +41,19 @@ Desenvolvedor **Full-Stack** focado em entregar soluções eficientes, modernas 
 
 ## 📊 Estatísticas do GitHub
 
-### 📈 Visão Geral  
-[![Perfil GitHub](https://github-readme-stats.vercel.app/api?username=hederdavid&theme=radical&show_icons=true&count_private=true)](https://github.com/hederdavid)
+<p align="center">
+  <a href="https://github.com/hederdavid">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hederdavid&theme=radical&show_icons=true&count_private=true" />
+  </a>
+  <a href="https://github.com/hederdavid">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hederdavid&layout=compact&theme=radical&show_icons=true" />
+  </a>
+</p>
 
-### 🔥 Sequência de Contribuições  
-[![Streak GitHub](https://github-readme-streak-stats.herokuapp.com/?user=hederdavid&theme=radical)](https://github.com/hederdavid)
+<p align="center">
+  <a href="https://github.com/hederdavid">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hederdavid&theme=radical" />
+  </a>
+</p>
 
 ---
